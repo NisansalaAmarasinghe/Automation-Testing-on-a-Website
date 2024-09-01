@@ -11,11 +11,11 @@ This project outlines the test automation process conducted using Selenium WebDr
     <li><strong>Browser Compatibility:</strong> Chrome Options used to match project with browser version</li>
   </ul>
 
-  <h2>Main Test Cases</h2>
+  <h2>Main Categories</h2>
 
   <h3>1. Login Functionality (Before Registering)</h3>
   <ul>
-    <li><strong>Sub-cases:</strong>
+    <li><strong>Test cases:</strong>
       <ul>
         <li>Click on the Login button from the Dashboard.</li>
         <li>Enter a valid email address in the email field.</li>
@@ -28,7 +28,7 @@ This project outlines the test automation process conducted using Selenium WebDr
 
   <h3>2. New Registration Form</h3>
   <ul>
-    <li><strong>Sub-cases:</strong>
+    <li><strong>Test cases:</strong>
       <ul>
         <li>Click on the Login button from the Dashboard.</li>
         <li>Enter a full name in the New Registration field.</li>
@@ -47,7 +47,7 @@ This project outlines the test automation process conducted using Selenium WebDr
 
   <h3>3. Mouse Movements on Homepage</h3>
   <ul>
-    <li><strong>Sub-cases:</strong>
+    <li><strong>Test cases:</strong>
       <ul>
         <li>Move the mouse over each of the 7 tabs in the Navigation Bar (verify visibility).</li>
         <li>Move the mouse over the Advertisement Banner and click the navigation arrows.</li>
@@ -60,7 +60,7 @@ This project outlines the test automation process conducted using Selenium WebDr
 
   <h3>4. Placing an Order</h3>
   <ul>
-    <li><strong>Sub-cases:</strong>
+    <li><strong>Test cases:</strong>
       <ul>
         <li>Access the Cart page.</li>
         <li>Click on "Continue Shopping."</li>
@@ -74,7 +74,7 @@ This project outlines the test automation process conducted using Selenium WebDr
 
   <h3>5. Checkbox Selections in Products</h3>
   <ul>
-    <li><strong>Sub-cases:</strong>
+    <li><strong>Test cases:</strong>
       <ul>
         <li>Navigate to the Products Page.</li>
         <li>Select the "Device" category from the checkbox list.</li>
