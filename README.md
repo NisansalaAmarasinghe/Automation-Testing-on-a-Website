@@ -18,8 +18,8 @@ This project outlines the test automation process conducted using Selenium WebDr
     <li><strong>Sub-cases:</strong>
       <ul>
         <li>Click on the Login button from the Dashboard.</li>
-        <li>Enter a valid email address (e.g., mifipa8360@mposhop.com) in the email field.</li>
-        <li>Enter a password (e.g., 1234) in the password field.</li>
+        <li>Enter a valid email address in the email field.</li>
+        <li>Enter a password in the password field.</li>
         <li>Click on the Login button.</li>
       </ul>
     </li>
@@ -31,9 +31,9 @@ This project outlines the test automation process conducted using Selenium WebDr
     <li><strong>Sub-cases:</strong>
       <ul>
         <li>Click on the Login button from the Dashboard.</li>
-        <li>Enter a full name (e.g., Harry Potter) in the New Registration field.</li>
-        <li>Enter a unique email address (e.g., rakeham945@dcbin.com) in the email field.</li>
-        <li>Enter a valid phone number (e.g., 0715645852) in the phone number field.</li>
+        <li>Enter a full name in the New Registration field.</li>
+        <li>Enter a unique email address in the email field.</li>
+        <li>Enter a valid phone number in the phone number field.</li>
         <li>Click on the Create New Account button.</li>
       </ul>
     </li>
@@ -85,3 +85,6 @@ This project outlines the test automation process conducted using Selenium WebDr
       </ul>
     </li>
   </ul>
+
+  <h2>Author</h2>
+  <p><strong>Nisansala Amarasinghe</strong></p>
