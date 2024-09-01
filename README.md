@@ -86,5 +86,13 @@ This project outlines the test automation process conducted using Selenium WebDr
     </li>
   </ul>
 
+  <h2>Technologies Used</h2>
+  <ul>
+    <li>IntelliJ IDEA</li>
+    <li>TestNG</li>
+    <li>Java</li>
+    <li>Selectors Hub</li>
+  </ul>
+
   <h2>Author</h2>
   <p><strong>Nisansala Amarasinghe</strong></p>
