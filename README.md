@@ -88,10 +88,10 @@ This project outlines the test automation process conducted using Selenium WebDr
 
   <h2>Technologies Used</h2>
   <ul>
-    <li>IntelliJ IDEA</li>
-    <li>TestNG</li>
-    <li>Java</li>
-    <li>Selectors Hub</li>
+    <li><b>IntelliJ IDEA</b></li>
+    <li><b>TestNG</b></li>
+    <li><b>Java</b></li>
+    <li><b>Selectors Hub</b></li>
   </ul>
 
   <h2>Author</h2>
